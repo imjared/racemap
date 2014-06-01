@@ -1,0 +1,1555 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"properties"
+			],
+			[
+				"m",
+				"moment.js"
+			],
+			[
+				"no",
+				"noSpacesHere"
+			],
+			[
+				"geo",
+				"geoJson"
+			],
+			[
+				"feature",
+				"featureLayer"
+			],
+			[
+				"xml",
+				"xmlToJSON"
+			],
+			[
+				"windo",
+				"windowWidth"
+			],
+			[
+				"border",
+				"borderColor"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"num",
+				"numberOfItems"
+			],
+			[
+				"rotato",
+				"rotatorText"
+			],
+			[
+				"rota",
+				"rotatorText"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"view",
+				"viewsDir"
+			],
+			[
+				"layout",
+				"layoutDir"
+			],
+			[
+				"lay",
+				"layout"
+			],
+			[
+				"wp-c",
+				"wp-content/"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"action",
+				"actionLink"
+			],
+			[
+				"sffPage",
+				"sffPageQuery"
+			],
+			[
+				"baco",
+				"background-size"
+			],
+			[
+				"list-st",
+				"list-style-type"
+			],
+			[
+				"polic",
+				"policiesQuery"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"scro",
+				"scrollWindow"
+			],
+			[
+				"acti",
+				"activeCanvasClass"
+			],
+			[
+				"slide",
+				"slideUp"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"is-act",
+				"is-active-item"
+			],
+			[
+				"is-ac",
+				"is-active-item"
+			],
+			[
+				"active",
+				"activeClass"
+			],
+			[
+				"activ",
+				"active-accordion-item"
+			],
+			[
+				"ite",
+				"itemClass"
+			],
+			[
+				"pro",
+				"projects"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"proj",
+				"projectId"
+			],
+			[
+				"is-",
+				"is-hidden"
+			],
+			[
+				"close",
+				"closeModal"
+			],
+			[
+				"off",
+				"off-canvas-content"
+			],
+			[
+				"proje",
+				"projectId"
+			],
+			[
+				"webkit-trans",
+				"webkit-transform"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"togg",
+				"toggleContainerClass"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			],
+			[
+				"local",
+				"localHosts"
+			],
+			[
+				"carouse",
+				"carousel_slides_images"
+			],
+			[
+				"sl",
+				"slide"
+			],
+			[
+				"ro",
+				"row_id"
+			],
+			[
+				"rotator_",
+				"rotator_caption"
+			],
+			[
+				"product",
+				"product_rotator"
+			],
+			[
+				"produ",
+				"product_rotator"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"frame",
+				"frameborder"
+			],
+			[
+				"vid",
+				"videoCredits"
+			],
+			[
+				"vide",
+				"videoId"
+			],
+			[
+				"item",
+				"itemWidth"
+			],
+			[
+				"init",
+				"initialOffset"
+			],
+			[
+				"left",
+				"leftPostions"
+			],
+			[
+				"slid",
+				"slideCont"
+			],
+			[
+				"curre",
+				"currentContainerLeft"
+			],
+			[
+				"tar",
+				"targetIndex"
+			],
+			[
+				"clic",
+				"clickedTargetLeft"
+			],
+			[
+				"curr",
+				"currentContainerLeft"
+			],
+			[
+				"Tar",
+				"targetIndex"
+			],
+			[
+				"prod",
+				"productCont"
+			],
+			[
+				"get",
+				"getItemPosition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 1414,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "build/scss/screen.scss",
+			"settings":
+			{
+				"buffer_size": 457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1425,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"format",
+				"Format: Javascript"
+			],
+			[
+				"foramt",
+				"Markdown Preview: Github Flavored Markdown: Export HTML in Sublime Text"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"reinte",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"prebiew",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"package re",
+				"Package Control: Remove Package"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"form",
+				"Format: Javascript"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"var",
+				"View: Toggle Side Bar"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"preview",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"fo",
+				"Format: Javascript"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"exp",
+				"Snippet: exp:channel:categories"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"express",
+				"Set Syntax: ExpressionEngine"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"beaut",
+				"SassBeautify: Convert from CSS to current type"
+			],
+			[
+				"sass ",
+				"SassBeautify"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"defau",
+				"Preferences: Settings - Default"
+			],
+			[
+				"prefer",
+				"Preferences: Settings - Default"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"prefere",
+				"Preferences: Settings - Default"
+			],
+			[
+				"remove pag",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove ",
+				"Emmet: Remove Tag"
+			],
+			[
+				"auto",
+				"AutoFileName: Quick Settings"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"preference",
+				"Preferences: Settings - Default"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"key b",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bahs",
+				"Set Syntax: Shell Script (Bash)"
+			]
+		],
+		"width": 647.0
+	},
+	"console":
+	{
+		"height": 126.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jaredlaser/sites/playground/racemap/build/scss/screen.scss",
+		"/Users/jaredlaser/sites/playground/racemap/stylesheets/screen.css",
+		"/Users/jaredlaser/sites/playground/racemap/gulp/tasks/sass.js",
+		"/Users/jaredlaser/sites/playground/racemap/gulp/tasks/sprites.js",
+		"/Users/jaredlaser/sites/playground/racemap/gulp/tasks/nodemon.js",
+		"/Users/jaredlaser/sites/playground/racemap/package.json",
+		"/Users/jaredlaser/sites/playground/racemap/build/scss/lib/_normalize.scss",
+		"/Users/jaredlaser/sites/playground/racemap/.editorconfig",
+		"/Users/jaredlaser/sites/playground/racemap/geodata.json",
+		"/Users/jaredlaser/sites/playground/racemap/tools/1-toJson.js",
+		"/Users/jaredlaser/sites/playground/racemap/geodata-formatted.json",
+		"/Users/jaredlaser/sites/playground/racemap/index.html",
+		"/Users/jaredlaser/sites/playground/racemap/bower_components/moment-range/lib/moment-range.js",
+		"/Users/jaredlaser/sites/playground/racemap/bower_components/moment-range/README.md",
+		"/Users/jaredlaser/sites/playground/racemap/bower_components/moment-range/Gruntfile.coffee",
+		"/Users/jaredlaser/sites/playground/racemap/bower_components/moment-range/src/moment-range.coffee",
+		"/Users/jaredlaser/sites/playground/racemap/js/index.js",
+		"/Users/jaredlaser/sites/playground/racemap/races-preGeo.json",
+		"/Users/jaredlaser/sites/playground/racemap/node_modules/cheerio/node_modules/CSSselect/test/sizzle/data/index.html",
+		"/Users/jaredlaser/sites/playground/racemap/races.json",
+		"/Users/jaredlaser/sites/playground/racemap/data/index.html",
+		"/Users/jaredlaser/sites/playground/racemap/data-raw.xml",
+		"/Users/jaredlaser/sites/playground/racemap/tools/untitled.js",
+		"/Users/jaredlaser/sites/playground/racemap/data-raw.json",
+		"/Users/jaredlaser/sites/playground/racemap/node_modules/xmltojson/package.json",
+		"/Users/jaredlaser/sites/playground/racemap/data/data-raw.json",
+		"/Users/jaredlaser/sites/playground/racemap/sample.json",
+		"/Users/jaredlaser/sites/ball/.env",
+		"/Users/jaredlaser/sites/ball/.gitignore",
+		"/Users/jaredlaser/sites/prophets/timber/views/prophet.twig",
+		"/Users/jaredlaser/sites/prophets/timber/views/home.twig",
+		"/Users/jaredlaser/sites/prophets/timber/views/layout.twig",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/partials/_header.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/partials/_home.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/component/_rotator.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/partials/_interior.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/component/_form.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/component/_type.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/_custom.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/tooltip.js",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/home-rotate.js",
+		"/Users/jaredlaser/sites/prophets/gulpfile.js",
+		"/Users/jaredlaser/sites/prophets/prophets.sublime-project",
+		"/Users/jaredlaser/sites/prophets/package.json",
+		"/Users/jaredlaser/sites/prophets/site-wp/.htaccess",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/_foundation.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/screen.scss",
+		"/Users/jaredlaser/sites/prophets/timber/dev/css/screen.css",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/foundation/_settings.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/foundation/components/_grid.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/foundation/components/_block-grid.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/css/screen.css",
+		"/Users/jaredlaser/sites/prophets/bower.json",
+		"/Users/jaredlaser/sites/prophets/.gitignore",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/lib/velocity.js",
+		"/Users/jaredlaser/sites/prophets/bower_components/Velocity.js/jquery.velocity.min.js",
+		"/Users/jaredlaser/sites/prophets/timber/functions.php",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/foundation/components/_tooltips.scss",
+		"/Users/jaredlaser/sites/prophets/timber/page-home.php",
+		"/Users/jaredlaser/sites/prophets/timber/home.php",
+		"/Users/jaredlaser/sites/prophets/timber/index.php",
+		"/Users/jaredlaser/sites/prophets/timber/page-become-a-digital-prophet.php",
+		"/Users/jaredlaser/sites/prophets/timber/dev/assets/fonts/iconFont.eot",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/partials/_extends.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/lib/MyFontsWebfontsKit.js",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/partials/_icons.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/_icons.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/_icons.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/_icon-template.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/main.js",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/plugins.js",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/lib/jquery.placeholder.js",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/nav.js",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/nav-scroll.js",
+		"/Users/jaredlaser/sites/prophets/timber/views/page.twig",
+		"/Users/jaredlaser/sites/prophets/timber/page.php",
+		"/Users/jaredlaser/sites/prophets/site-wp/config/config.prod.php",
+		"/Users/jaredlaser/sites/prophets/site-wp/config/config.master.php",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/partials/_footer.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/js/lib/jquery.jcarousel.min.js",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/lib/_jcarousel.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/partials/_mixins.scss",
+		"/Users/jaredlaser/sites/prophets/timber/assets/scss/foundation/components/_split-buttons.scss",
+		"/Users/jaredlaser/sites/prophets/bubs.sublime-workspace",
+		"/Users/jaredlaser/sites/prophets/prophets.sublime-workspace",
+		"/Users/jaredlaser/sites/prophets/site-wp/index.bak",
+		"/Users/jaredlaser/sites/prophets/site-wp/config/config.stage.php",
+		"/private/etc/apache2/extra/httpd-vhosts.conf",
+		"/Users/jaredlaser/sites/prophets/readme.md",
+		"/Users/jaredlaser/sites/prophets/bubs.sublime-project",
+		"/Users/jaredlaser/sites/prophets/site-wp/config/config.local.php",
+		"/Users/jaredlaser/sites/crist/favicon.ico",
+		"/Users/jaredlaser/Sites/prophets/.git/config",
+		"/Users/jaredlaser/sites/bubs/gulpfile.js",
+		"/Users/jaredlaser/sites/bubs/timber/views/layout.twig",
+		"/Users/jaredlaser/sites/bubs/terminal.glue",
+		"/Users/jaredlaser/sites/bubs/timber/assets/js/main.js",
+		"/Users/jaredlaser/sites/bubs/timber/dist/js/custom.js",
+		"/Users/jaredlaser/sites/bubs/package.json",
+		"/Users/jaredlaser/sites/bubs/timber/dist/js/all.js",
+		"/Users/jaredlaser/sites/bubs/Gruntfile.js",
+		"/Users/jaredlaser/sites/bubs/timber/assets/scss/screen.scss",
+		"/Users/jaredlaser/sites/bubs/timber/dist/css/screen.css",
+		"/Users/jaredlaser/sites/bubs/timber/assets/scss/_custom.scss",
+		"/Users/jaredlaser/sites/bubs/timber/dev/css/screen.css",
+		"/Users/jaredlaser/sites/bubs/bubs.sublime-project",
+		"/Users/jaredlaser/sites/bubs/node_modules/gulp-minify-css/package.json",
+		"/Users/jaredlaser/sites/bubs/.gitignore",
+		"/Users/jaredlaser/sites/bubs/timber/dev/js/main.js",
+		"/Users/jaredlaser/sites/bubs/assets/js/main.js",
+		"/Users/jaredlaser/sites/bubs/timber/dist/layout.twig",
+		"/Users/jaredlaser/sites/bubs/timber/dev/plugins.js",
+		"/Users/jaredlaser/sites/bubs/assets/_incoming/.gitignore",
+		"/Users/jaredlaser/sites/bubs/site-wp/wordpress/wp-content/themes/timber/views/layout.twig",
+		"/Users/jaredlaser/sites/bubs/site-wp/wordpress/wp-content/themes/timber/dist/js/all.js",
+		"/Users/jaredlaser/sites/bubs/site-wp/wordpress/wp-content/themes/timber/dist/js/all-953bb747.js",
+		"/Users/jaredlaser/sites/bubs/site-wp/config/config.master.php",
+		"/Users/jaredlaser/sites/bubs/dist/layout.twig",
+		"/Users/jaredlaser/sites/bubs/timber/dist/js/all-953bb747.js",
+		"/Users/jaredlaser/sites/bubs/timber/functions.php",
+		"/Users/jaredlaser/sites/bubs/node_modules/gulp-rev-append/index.js",
+		"/Users/jaredlaser/sites/bubs/timber/index.html",
+		"/Users/jaredlaser/sites/bubs/timber/dist/js/js/all-953bb747.js",
+		"/Users/jaredlaser/sites/bubs/timber/dist/js/layout.twig",
+		"/Users/jaredlaser/sites/bubs/index.html",
+		"/Users/jaredlaser/sites/bubs/dist/index.html",
+		"/Users/jaredlaser/sites/bubs/timber/dev/css/screen.css.map",
+		"/Users/jaredlaser/sites/bubs/site-wp/config/config.local.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jaredlaser/sites/prophets/timber/assets/scss",
+			"/Users/jaredlaser/sites/bubs/assets/scss",
+			"/Users/jaredlaser/sites/crist/timber",
+			"/Users/jaredlaser/sites/crist/timber/views",
+			"/Users/jaredlaser/sites/crist/assets/scss",
+			"/Users/jaredlaser/sites/crist/timber",
+			"/Users/jaredlaser/sites/crist/assets/scss",
+			"/Users/jaredlaser/sites/crist/timber/views",
+			"/Users/jaredlaser/sites/crist/assets/scss",
+			"/Users/jaredlaser/sites/crist/timber/views",
+			"/Users/jaredlaser/sites/crist/assets/scss",
+			"/Users/jaredlaser/sites/crist/timber",
+			"/Users/jaredlaser/sites/crist/timber/views",
+			"/Users/jaredlaser/sites/crist/timber",
+			"/Users/jaredlaser/sites/crist/assets/scss",
+			"/Users/jaredlaser/sites/crist/site-wp/wordpress/wp-content/themes/timber/views",
+			"/Users/jaredlaser/sites/crist/site-wp/wordpress/wp-content/themes/timber",
+			"/Users/jaredlaser/sites/crist/assets/scss",
+			"/Users/jaredlaser/sites/apt1/assets/scss",
+			"/Users/jaredlaser/sites/tinybop-ee/sass",
+			"/Users/jaredlaser/sites/tinybop-ee/templates",
+			"/Users/jaredlaser/sites/tinybop-ee/sass"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"color\"",
+			"color\"",
+			": ",
+			"myLayer",
+			"\"color\"",
+			": ",
+			"(?=formerly)",
+			"<circle",
+			"<input type=\"radio\" value=\"test\">",
+			"<span",
+			"<input type=\"radio\" value=\"test\">",
+			"$",
+			"</div>",
+			"<label",
+			"<input",
+			"<div",
+			"apply for",
+			")                ",
+			")  ",
+			".auto",
+			"auto",
+			"medium-3",
+			"left",
+			"medium-6 columns en",
+			"medium-list",
+			"small-list",
+			"nth-child",
+			"membership-details",
+			"medium-list",
+			"expertise-areas",
+			"offsetY",
+			"refillCountdown",
+			".hero",
+			"hero-services",
+			"iconfont",
+			"grey",
+			"medium-list",
+			"[class*=\"block-grid-\"]",
+			"pull",
+			"medium-list-2",
+			"row-divider",
+			"black",
+			"color: ",
+			"                color: #7e2a89;",
+			".item",
+			"show-for-small",
+			"is-hover",
+			"screenY",
+			"offset",
+			"offsetY",
+			"page",
+			".item",
+			".tooltip",
+			".tooltip-data",
+			".item",
+			": ",
+			"= ",
+			": ",
+			"= ",
+			": ",
+			"technology",
+			".tooltip",
+			"dataID",
+			"entry",
+			"client",
+			"who",
+			"clients",
+			"AvenirLTStd",
+			"url('webfonts",
+			",url",
+			";",
+			"instagram",
+			"checkbox6",
+			"other",
+			"<Form",
+			"child",
+			"\"",
+			"topItem",
+			"totalItems",
+			"other",
+			"- ",
+			"column-item",
+			"<div class=\"column-item\">",
+			"<h2>",
+			"column",
+			"- ",
+			".button",
+			"// opacity: ",
+			"startTheTimer",
+			"opacity",
+			"hidden",
+			"el",
+			"large-",
+			"large-12",
+			"column",
+			"large-12",
+			"large-12 ",
+			"other",
+			"/_slice/img",
+			" = ",
+			"=",
+			"'/dev",
+			"$t",
+			"/dev",
+			"assets",
+			"/dev",
+			"slice",
+			"currentIndex",
+			"Things",
+			"stone",
+			"</li>",
+			"stone",
+			"0.3s",
+			"<p>",
+			": \"\"",
+			"id=\"",
+			"\">",
+			"<input id=\"checkbox",
+			"<label for=\"checkbox",
+			"$total-columns",
+			"header",
+			"<!",
+			"jukingth_crist",
+			"\n ",
+			"= ",
+			"['",
+			"$.",
+			"gulp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"marker-color\"",
+			"../images",
+			"highlightColor"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/index.js",
+					"settings":
+					{
+						"buffer_size": 1414,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 63.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "build/scss/screen.scss",
+					"settings":
+					{
+						"buffer_size": 457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								274,
+								274
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1425,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1103,
+								1103
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/ExpressionEngine/ExpressionEngine.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 69.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index.htm",
+				"index.html"
+			],
+			[
+				"scree",
+				"stylesheets/screen.css"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"index.",
+				"index.html"
+			],
+			[
+				"index.j",
+				"js/index.js"
+			],
+			[
+				"index.js",
+				"js/index.js"
+			],
+			[
+				"idnex.ht",
+				"node_modules/cheerio/node_modules/CSSselect/test/sizzle/data/index.html"
+			],
+			[
+				"races",
+				"races.json"
+			],
+			[
+				"data-r",
+				"data-raw.xml"
+			],
+			[
+				"data-",
+				"data-raw.json"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"home.tw",
+				"timber/views/home.twig"
+			],
+			[
+				"prop",
+				"timber/views/prophet.twig"
+			],
+			[
+				"layout",
+				"timber/views/layout.twig"
+			],
+			[
+				"hometw",
+				"timber/views/home.twig"
+			],
+			[
+				"rotator",
+				"timber/assets/scss/component/_rotator.scss"
+			],
+			[
+				"home.scss",
+				"timber/assets/scss/partials/_home.scss"
+			],
+			[
+				"interior.",
+				"timber/assets/scss/partials/_interior.scss"
+			],
+			[
+				"header.scss",
+				"timber/assets/scss/partials/_header.scss"
+			],
+			[
+				"interior",
+				"timber/assets/scss/partials/_interior.scss"
+			],
+			[
+				"type.s",
+				"timber/assets/scss/component/_type.scss"
+			],
+			[
+				"custom",
+				"timber/assets/scss/_custom.scss"
+			],
+			[
+				"form.scs",
+				"timber/assets/scss/component/_form.scss"
+			],
+			[
+				"interior.scs",
+				"timber/assets/scss/partials/_interior.scss"
+			],
+			[
+				"rotator.",
+				"timber/assets/scss/component/_rotator.scss"
+			],
+			[
+				"form.",
+				"timber/assets/scss/component/_form.scss"
+			],
+			[
+				"prope",
+				"timber/views/prophet.twig"
+			],
+			[
+				"pro",
+				"timber/views/prophet.twig"
+			],
+			[
+				"type.scs",
+				"timber/assets/scss/component/_type.scss"
+			],
+			[
+				"home",
+				"timber/assets/js/home-rotate.js"
+			],
+			[
+				"gul",
+				"gulpfile.js"
+			],
+			[
+				"gulp",
+				"gulpfile.js"
+			],
+			[
+				".hta",
+				"site-wp/.htaccess"
+			],
+			[
+				"proj",
+				"prophets.sublime-project"
+			],
+			[
+				"project",
+				"prophets.sublime-project"
+			],
+			[
+				"form.s",
+				"timber/assets/scss/component/_form.scss"
+			],
+			[
+				"screen",
+				"timber/dev/css/screen.css"
+			],
+			[
+				"settings",
+				"timber/assets/scss/foundation/_settings.scss"
+			],
+			[
+				"sett",
+				"timber/assets/scss/foundation/_settings.scss"
+			],
+			[
+				"projec",
+				"prophets.sublime-project"
+			],
+			[
+				"found",
+				"timber/assets/scss/_foundation.scss"
+			],
+			[
+				"foundat",
+				"timber/assets/scss/_foundation.scss"
+			],
+			[
+				"header.",
+				"timber/assets/scss/partials/_header.scss"
+			],
+			[
+				"home.scs",
+				"timber/assets/scss/partials/_home.scss"
+			],
+			[
+				"type",
+				"timber/assets/scss/component/_type.scss"
+			],
+			[
+				"interi",
+				"timber/assets/scss/partials/_interior.scss"
+			],
+			[
+				"proje",
+				"prophets.sublime-project"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"rotate",
+				"timber/assets/js/home-rotate.js"
+			],
+			[
+				"function",
+				"timber/functions.php"
+			],
+			[
+				"layout.tw",
+				"timber/views/layout.twig"
+			],
+			[
+				"tool",
+				"timber/assets/js/tooltip.js"
+			],
+			[
+				"home.twig",
+				"timber/views/home.twig"
+			],
+			[
+				".htacc",
+				"site-wp/.htaccess"
+			],
+			[
+				"home.",
+				"timber/page-home.php"
+			],
+			[
+				"home.php",
+				"timber/page-home.php"
+			],
+			[
+				"index.php",
+				"timber/index.php"
+			],
+			[
+				"home.twg",
+				"timber/views/home.twig"
+			],
+			[
+				"type.",
+				"timber/assets/scss/component/_type.scss"
+			],
+			[
+				"gulpf",
+				"gulpfile.js"
+			],
+			[
+				"scre",
+				"timber/assets/css/screen.css"
+			],
+			[
+				"screen.scss",
+				"timber/assets/scss/screen.scss"
+			],
+			[
+				"creen",
+				"timber/assets/scss/partials/_extends.scss"
+			],
+			[
+				"layout.",
+				"timber/views/layout.twig"
+			],
+			[
+				"icon",
+				"timber/assets/scss/partials/_icons.scss"
+			],
+			[
+				"_icons.",
+				"timber/assets/scss/partials/_icons.scss"
+			],
+			[
+				"main.",
+				"timber/assets/js/main.js"
+			],
+			[
+				"plugins",
+				"timber/assets/js/plugins.js"
+			],
+			[
+				"jquery",
+				"timber/assets/js/lib/jquery.placeholder.js"
+			],
+			[
+				"main.js",
+				"timber/assets/js/main.js"
+			],
+			[
+				"nav.js",
+				"timber/assets/js/nav.js"
+			],
+			[
+				"rotato",
+				"timber/assets/scss/component/_rotator.scss"
+			],
+			[
+				"page",
+				"timber/page-become-a-digital-prophet.php"
+			],
+			[
+				"nav-",
+				"timber/assets/js/nav-scroll.js"
+			],
+			[
+				"page.twig",
+				"timber/views/page.twig"
+			],
+			[
+				"proe",
+				"prophets.sublime-project"
+			],
+			[
+				"typ",
+				"timber/assets/scss/component/_type.scss"
+			],
+			[
+				"home.twi",
+				"timber/views/home.twig"
+			],
+			[
+				"custo",
+				"timber/assets/scss/_custom.scss"
+			],
+			[
+				"ro",
+				"timber/assets/scss/component/_rotator.scss"
+			],
+			[
+				"form.scss",
+				"timber/assets/scss/component/_form.scss"
+			],
+			[
+				"footer.scs",
+				"timber/assets/scss/partials/_footer.scss"
+			],
+			[
+				"form",
+				"timber/assets/scss/component/_form.scss"
+			],
+			[
+				"functions",
+				"timber/functions.php"
+			],
+			[
+				"main",
+				"timber/assets/js/main.js"
+			],
+			[
+				"custom.",
+				"timber/assets/scss/_custom.scss"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"grid",
+				"timber/assets/scss/foundation/components/_grid.scss"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"screenscss",
+				"timber/assets/scss/screen.scss"
+			],
+			[
+				"footer.scss",
+				"timber/assets/scss/partials/_footer.scss"
+			],
+			[
+				"custom.scss",
+				"timber/assets/scss/_custom.scss"
+			],
+			[
+				"config.sta",
+				"site-wp/config/config.stage.php"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"pacage",
+				"package.json"
+			],
+			[
+				"layout.t",
+				"timber/views/layout.twig"
+			],
+			[
+				"scree.scss",
+				"timber/assets/scss/screen.scss"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"dev/js",
+				"timber/dev/js/main.js"
+			],
+			[
+				"config",
+				"site-wp/config/config.master.php"
+			],
+			[
+				"local",
+				"site-wp/config/config.local.php"
+			],
+			[
+				"config.m",
+				"site-wp/config/config.master.php"
+			],
+			[
+				"gr",
+				"Gruntfile.js"
+			],
+			[
+				"config.loh",
+				"site-wp/config/config.local-example.php"
+			],
+			[
+				"header.tw",
+				"timber/views/_header.twig"
+			],
+			[
+				"actio",
+				"timber/views/action.twig"
+			],
+			[
+				"action",
+				"timber/views/action.twig"
+			],
+			[
+				"bower.j",
+				"bower.json"
+			],
+			[
+				"footer.tw",
+				"timber/views/_footer.twig"
+			],
+			[
+				"splash",
+				"assets/scss/partials/_splash.scss"
+			],
+			[
+				"var",
+				"assets/scss/component/_variables.scss"
+			],
+			[
+				"butt",
+				"assets/scss/component/_buttons.scss"
+			],
+			[
+				"splash.scss",
+				"assets/scss/partials/_splash.scss"
+			],
+			[
+				"header.twg",
+				"timber/views/_header.twig"
+			],
+			[
+				"splash.tw",
+				"timber/views/splash.twig"
+			],
+			[
+				"config.mas",
+				"site-wp/config/config.master.php"
+			],
+			[
+				"config.pro",
+				"site-wp/config/config.prod.php"
+			],
+			[
+				"wp-config",
+				"site-wp/wordpress/wp-config.php"
+			],
+			[
+				"page.ph",
+				"timber/page.php"
+			],
+			[
+				"lay",
+				"timber/views/layout.twig"
+			],
+			[
+				"header.twi",
+				"timber/views/_header.twig"
+			],
+			[
+				"page.tw",
+				"timber/views/page.twig"
+			],
+			[
+				"page.php",
+				"timber/page.php"
+			],
+			[
+				"type.scss",
+				"assets/scss/component/_type.scss"
+			],
+			[
+				"brea",
+				"assets/scss/modules/_breakpoints.scss"
+			],
+			[
+				"varia",
+				"assets/scss/component/_variables.scss"
+			],
+			[
+				"variab",
+				"assets/scss/component/_variables.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": false
+}

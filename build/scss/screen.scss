@@ -1,0 +1,25 @@
+@import "lib/_normalize.scss";
+
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+
+#map-details {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: #fff;
+    height: 100px;
+    width: 420px;
+    border-top-right-radius: 5px;
+    padding: 0 20px;
+    box-sizing: border-box;
+    font-family: "Helvetica Neue", helvetica, arial, sans-serif;
+    #date-now,
+    #date-end {
+        font-weight: 900;
+    }
+    p,
+    #slider {
+        width: 90%;
+    }
+}
