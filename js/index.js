@@ -5,6 +5,7 @@ var months = moment.months();
 var geoJson;
 var map;
 var featureLayer;
+var LAUNCHED = false;
 
 $.ajax({
     url: './geodata-formatted.json',
@@ -53,13 +54,7 @@ function initMap() {
             });
     });
 
-    // Pass features and a custom factory function to the map
-    featureLayer
-        .setGeoJSON(geoJson)
-        .setFilter(function( geoJson ) {
-            var month = moment().month( geoJson.properties.month )
-            return month.within(range);
-        });
+    updateRange( ["0.00", "5.00"], 'all');
 
     // add html5 location controls
     L.control.locate({
@@ -68,28 +63,33 @@ function initMap() {
         }
     }).addTo(map);
 
-    getLocation();
+    // getLocation();
 }
 
 function updateRange( val, day ) {
+    if ( !LAUNCHED ) {
+        featureLayer.setGeoJSON( geoJson )
+        LAUNCHED = true;
+    }
     var currentYear = currentDate.year();
     var start       = parseInt(val[0]) + 1;
     var end         = parseInt(val[1]) + 1;
     var startDate   = moment( start + ' ' + currentYear, "M YYYY" );
     var endDate     = moment( end + ' ' + currentYear, "M YYYY" ).endOf('month');
     var range       = moment.range( startDate, endDate );
-    featureLayer.setFilter(function( geoJson ) {
-        var momentMonth = moment( geoJson.properties.month + ' ' + currentYear, "MMM YYYY" );
-        if ( day === "all" ) {
-            return momentMonth.within(range);
-        } else {
-            if ( momentMonth.within(range) && geoJson.properties.day === day ) {
-                return true
+    featureLayer
+        .setFilter(function( geoJson ) {
+            var momentMonth = moment( geoJson.properties.month + ' ' + currentYear, "MMM YYYY" );
+            if ( day === "all" ) {
+                return momentMonth.within(range);
             } else {
-                return false;
+                if ( momentMonth.within(range) && geoJson.properties.day === day ) {
+                    return true
+                } else {
+                    return false;
+                }
             }
-        }
-    });
+        });
 }
 
 function setTimeVals() {
@@ -121,7 +121,7 @@ jQuery(document).ready(function() {
     $('#map-details select').on('change', setTimeVals);
 
     $("#slider").noUiSlider({
-        start: [ currentDate.month(), 11],
+        start: [ currentDate.month(), 5],
         step: 1,
         connect: true,
         // margin: 1,
