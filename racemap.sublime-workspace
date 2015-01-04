@@ -4,6 +4,54 @@
 		"selected_items":
 		[
 			[
+				"fr",
+				"for	for (…) {…}"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"current",
+				"currentYear"
+			],
+			[
+				"end",
+				"endingDate"
+			],
+			[
+				"upda",
+				"updateRange"
+			],
+			[
+				"select",
+				"selectedDay"
+			],
+			[
+				"mome",
+				"momentMonth"
+			],
+			[
+				"curren",
+				"currentlyShown"
+			],
+			[
+				"curre",
+				"currentlyShown"
+			],
+			[
+				"mon",
+				"month"
+			],
+			[
+				"curr",
+				"currentDate"
+			],
+			[
+				"sli",
+				"sliderValue"
+			],
+			[
 				"pr",
 				"properties"
 			],
@@ -264,20 +312,12 @@
 				"slideCont"
 			],
 			[
-				"curre",
-				"currentContainerLeft"
-			],
-			[
 				"tar",
 				"targetIndex"
 			],
 			[
 				"clic",
 				"clickedTargetLeft"
-			],
-			[
-				"curr",
-				"currentContainerLeft"
 			],
 			[
 				"Tar",
@@ -295,40 +335,28 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "js/index.js",
-			"settings":
-			{
-				"buffer_size": 1414,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "build/scss/screen.scss",
-			"settings":
-			{
-				"buffer_size": 457,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 1425,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 127.0,
+		"height": 47.0,
 		"selected_items":
 		[
 			[
 				"format",
 				"Format: Javascript"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
 			],
 			[
 				"foramt",
@@ -353,10 +381,6 @@
 			[
 				"scss",
 				"Set Syntax: SCSS"
-			],
-			[
-				"html",
-				"Set Syntax: HTML"
 			],
 			[
 				"conver",
@@ -463,10 +487,6 @@
 				"Set Syntax: ExpressionEngine"
 			],
 			[
-				"xml",
-				"Set Syntax: XML"
-			],
-			[
 				"reinde",
 				"Indentation: Reindent Lines"
 			],
@@ -527,10 +547,6 @@
 				"Set Syntax: JavaScript"
 			],
 			[
-				"java",
-				"Set Syntax: Java"
-			],
-			[
 				"key b",
 				"Preferences: Key Bindings - Default"
 			],
@@ -547,11 +563,17 @@
 				"Set Syntax: Shell Script (Bash)"
 			]
 		],
-		"width": 647.0
+		"width": 593.0
 	},
 	"console":
 	{
-		"height": 126.0
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
 	},
 	"distraction_free":
 	{
@@ -562,9 +584,44 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/jaredlaser/sites/playground/racemap",
+		"/Users/jaredlaser/sites/playground/racemap/data",
+		"/Users/jaredlaser/sites/playground/racemap/data/output",
+		"/Users/jaredlaser/sites/playground/racemap/tools"
+	],
 	"file_history":
 	[
+		"/Users/jaredlaser/sites/playground/racemap/data/output/geodata-formatted.json",
+		"/Users/jaredlaser/sites/playground/racemap/js/index.js",
+		"/Users/jaredlaser/sites/playground/racemap/gulp/tasks/watch.js",
+		"/Users/jaredlaser/sites/playground/racemap/index.html",
+		"/private/etc/hosts",
+		"/Users/jaredlaser/sites/playground/racemap/gulp/index.js",
+		"/Users/jaredlaser/sites/playground/racemap/gulpfile.js",
+		"/Users/jaredlaser/sites/playground/racemap/sample.json",
 		"/Users/jaredlaser/sites/playground/racemap/build/scss/screen.scss",
+		"/Users/jaredlaser/sites/playground/racemap/data/output/races-preGeo-saturday.json",
+		"/Users/jaredlaser/sites/playground/racemap/data/output/races-preGeo-sunday.json",
+		"/Users/jaredlaser/sites/playground/racemap/geodata-formatted.json",
+		"/Users/jaredlaser/Library/Caches/Cleanup At Startup/Transmit/14836B98-0345-44E0-BE70-ED98BC729F1F/index.html",
+		"/Users/jaredlaser/sites/playground/racemap/tools/2-geocodeData.js",
+		"/Users/jaredlaser/sites/playground/racemap/tools/3-convertToGeoJSON.js",
+		"/Users/jaredlaser/sites/playground/racemap/data/races-preGeo.json",
+		"/Users/jaredlaser/sites/playground/racemap/data/geodata-formatted.json",
+		"/Users/jaredlaser/sites/playground/racemap/data/output/races-preGeo-combined.json",
+		"/Users/jaredlaser/sites/playground/racemap/data/data-raw.xml",
+		"/Users/jaredlaser/sites/playground/racemap/tools/1-toJson.js",
+		"/Users/jaredlaser/sites/playground/racemap/data/data-sunday.xml",
+		"/Users/jaredlaser/sites/playground/racemap/races-preGeo-saturday.json",
+		"/Users/jaredlaser/Desktop/test.html",
+		"/Users/jaredlaser/sites/playground/racemap/tools/data-saturday.xml",
+		"/Users/jaredlaser/sites/playground/racemap/bower_components/jquery/src/callbacks.js",
+		"/Users/jaredlaser/sites/playground/racemap/bower_components/jquery/src/var/hasOwn.js",
+		"/Users/jaredlaser/sites/playground/racemap/.gitignore",
+		"/Users/jaredlaser/sites/playground/racemap/bower.json",
+		"/Users/jaredlaser/sites/playground/racemap/racemap.sublime-project",
 		"/Users/jaredlaser/sites/playground/racemap/stylesheets/screen.css",
 		"/Users/jaredlaser/sites/playground/racemap/gulp/tasks/sass.js",
 		"/Users/jaredlaser/sites/playground/racemap/gulp/tasks/sprites.js",
@@ -573,14 +630,10 @@
 		"/Users/jaredlaser/sites/playground/racemap/build/scss/lib/_normalize.scss",
 		"/Users/jaredlaser/sites/playground/racemap/.editorconfig",
 		"/Users/jaredlaser/sites/playground/racemap/geodata.json",
-		"/Users/jaredlaser/sites/playground/racemap/tools/1-toJson.js",
-		"/Users/jaredlaser/sites/playground/racemap/geodata-formatted.json",
-		"/Users/jaredlaser/sites/playground/racemap/index.html",
 		"/Users/jaredlaser/sites/playground/racemap/bower_components/moment-range/lib/moment-range.js",
 		"/Users/jaredlaser/sites/playground/racemap/bower_components/moment-range/README.md",
 		"/Users/jaredlaser/sites/playground/racemap/bower_components/moment-range/Gruntfile.coffee",
 		"/Users/jaredlaser/sites/playground/racemap/bower_components/moment-range/src/moment-range.coffee",
-		"/Users/jaredlaser/sites/playground/racemap/js/index.js",
 		"/Users/jaredlaser/sites/playground/racemap/races-preGeo.json",
 		"/Users/jaredlaser/sites/playground/racemap/node_modules/cheerio/node_modules/CSSselect/test/sizzle/data/index.html",
 		"/Users/jaredlaser/sites/playground/racemap/races.json",
@@ -590,7 +643,6 @@
 		"/Users/jaredlaser/sites/playground/racemap/data-raw.json",
 		"/Users/jaredlaser/sites/playground/racemap/node_modules/xmltojson/package.json",
 		"/Users/jaredlaser/sites/playground/racemap/data/data-raw.json",
-		"/Users/jaredlaser/sites/playground/racemap/sample.json",
 		"/Users/jaredlaser/sites/ball/.env",
 		"/Users/jaredlaser/sites/ball/.gitignore",
 		"/Users/jaredlaser/sites/prophets/timber/views/prophet.twig",
@@ -668,30 +720,7 @@
 		"/Users/jaredlaser/sites/bubs/timber/assets/scss/screen.scss",
 		"/Users/jaredlaser/sites/bubs/timber/dist/css/screen.css",
 		"/Users/jaredlaser/sites/bubs/timber/assets/scss/_custom.scss",
-		"/Users/jaredlaser/sites/bubs/timber/dev/css/screen.css",
-		"/Users/jaredlaser/sites/bubs/bubs.sublime-project",
-		"/Users/jaredlaser/sites/bubs/node_modules/gulp-minify-css/package.json",
-		"/Users/jaredlaser/sites/bubs/.gitignore",
-		"/Users/jaredlaser/sites/bubs/timber/dev/js/main.js",
-		"/Users/jaredlaser/sites/bubs/assets/js/main.js",
-		"/Users/jaredlaser/sites/bubs/timber/dist/layout.twig",
-		"/Users/jaredlaser/sites/bubs/timber/dev/plugins.js",
-		"/Users/jaredlaser/sites/bubs/assets/_incoming/.gitignore",
-		"/Users/jaredlaser/sites/bubs/site-wp/wordpress/wp-content/themes/timber/views/layout.twig",
-		"/Users/jaredlaser/sites/bubs/site-wp/wordpress/wp-content/themes/timber/dist/js/all.js",
-		"/Users/jaredlaser/sites/bubs/site-wp/wordpress/wp-content/themes/timber/dist/js/all-953bb747.js",
-		"/Users/jaredlaser/sites/bubs/site-wp/config/config.master.php",
-		"/Users/jaredlaser/sites/bubs/dist/layout.twig",
-		"/Users/jaredlaser/sites/bubs/timber/dist/js/all-953bb747.js",
-		"/Users/jaredlaser/sites/bubs/timber/functions.php",
-		"/Users/jaredlaser/sites/bubs/node_modules/gulp-rev-append/index.js",
-		"/Users/jaredlaser/sites/bubs/timber/index.html",
-		"/Users/jaredlaser/sites/bubs/timber/dist/js/js/all-953bb747.js",
-		"/Users/jaredlaser/sites/bubs/timber/dist/js/layout.twig",
-		"/Users/jaredlaser/sites/bubs/index.html",
-		"/Users/jaredlaser/sites/bubs/dist/index.html",
-		"/Users/jaredlaser/sites/bubs/timber/dev/css/screen.css.map",
-		"/Users/jaredlaser/sites/bubs/site-wp/config/config.local.php"
+		"/Users/jaredlaser/sites/bubs/timber/dev/css/screen.css"
 	],
 	"find":
 	{
@@ -731,6 +760,36 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"initMap",
+			"getLocation",
+			"updateRange",
+			"console.",
+			"range",
+			"endingDate",
+			"consol",
+			"ran",
+			"10px",
+			"span",
+			"updateRange",
+			"geoJson",
+			"geojs",
+			"saturday",
+			"Saturday",
+			"sunday",
+			"Sunday",
+			"sunday",
+			": ",
+			" :",
+			"<Circle",
+			"<circles>",
+			"r2",
+			"x=",
+			"c=\"",
+			"<circle",
+			"console.log",
+			"'</",
+			"upper",
+			"lower",
 			"\"color\"",
 			"color\"",
 			": ",
@@ -828,37 +887,7 @@
 			"column",
 			"large-12",
 			"large-12 ",
-			"other",
-			"/_slice/img",
-			" = ",
-			"=",
-			"'/dev",
-			"$t",
-			"/dev",
-			"assets",
-			"/dev",
-			"slice",
-			"currentIndex",
-			"Things",
-			"stone",
-			"</li>",
-			"stone",
-			"0.3s",
-			"<p>",
-			": \"\"",
-			"id=\"",
-			"\">",
-			"<input id=\"checkbox",
-			"<label for=\"checkbox",
-			"$total-columns",
-			"header",
-			"<!",
-			"jukingth_crist",
-			"\n ",
-			"= ",
-			"['",
-			"$.",
-			"gulp"
+			"other"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -879,102 +908,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "js/index.js",
-					"settings":
-					{
-						"buffer_size": 1414,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								478,
-								478
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 63.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "build/scss/screen.scss",
-					"settings":
-					{
-						"buffer_size": 457,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								274,
-								274
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/SCSS/SCSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 1425,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1103,
-								1103
-							]
-						],
-						"settings":
-						{
-							"editorconfig": true,
-							"ensure_newline_at_eof_on_save": true,
-							"syntax": "Packages/ExpressionEngine/ExpressionEngine.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true,
-							"trim_trailing_white_space_on_save": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1013,6 +948,7 @@
 	{
 		"height": 0.0
 	},
+	"project": "racemap.sublime-project",
 	"replace":
 	{
 		"height": 69.0
@@ -1024,28 +960,56 @@
 		"selected_items":
 		[
 			[
-				"index.htm",
-				"index.html"
-			],
-			[
-				"scree",
-				"stylesheets/screen.css"
-			],
-			[
-				"package",
-				"package.json"
+				"gulwat",
+				"gulp/tasks/watch.js"
 			],
 			[
 				"index.",
-				"index.html"
+				"js/index.js"
+			],
+			[
+				"sample",
+				"sample.json"
 			],
 			[
 				"index.j",
 				"js/index.js"
 			],
 			[
+				"index.ht",
+				"index.html"
+			],
+			[
+				"scr",
+				"build/scss/screen.scss"
+			],
+			[
 				"index.js",
 				"js/index.js"
+			],
+			[
+				"scree",
+				"build/scss/screen.scss"
+			],
+			[
+				"index",
+				"js/index.js"
+			],
+			[
+				"1",
+				"tools/1-toJson.js"
+			],
+			[
+				"ca",
+				"bower_components/jquery/src/callbacks.js"
+			],
+			[
+				"index.htm",
+				"index.html"
+			],
+			[
+				"package",
+				"package.json"
 			],
 			[
 				"idnex.ht",
@@ -1506,34 +1470,6 @@
 			[
 				"lay",
 				"timber/views/layout.twig"
-			],
-			[
-				"header.twi",
-				"timber/views/_header.twig"
-			],
-			[
-				"page.tw",
-				"timber/views/page.twig"
-			],
-			[
-				"page.php",
-				"timber/page.php"
-			],
-			[
-				"type.scss",
-				"assets/scss/component/_type.scss"
-			],
-			[
-				"brea",
-				"assets/scss/modules/_breakpoints.scss"
-			],
-			[
-				"varia",
-				"assets/scss/component/_variables.scss"
-			],
-			[
-				"variab",
-				"assets/scss/component/_variables.scss"
 			]
 		],
 		"width": 0.0
@@ -1546,10 +1482,25 @@
 		],
 		"width": 0.0
 	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
 	"show_minimap": false,
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
 	"side_bar_width": 199.0,
-	"status_bar_visible": false
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
 }

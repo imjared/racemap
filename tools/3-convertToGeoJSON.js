@@ -2,7 +2,7 @@
 var fs = require('fs');
 var geojson = require('GeoJSON');
 
-var file = 'geodata.json';
+var file = 'data/output/geodata.json';
 
 fs.readFile(file, 'utf8', function(err, data) {
     if (err) {

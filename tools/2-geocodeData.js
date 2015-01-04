@@ -7,19 +7,19 @@
 var fs = require('fs');
 var geocoder = require('omnigeo');
 
-var data = require('../races-preGeo.json');
+var data = require('../data/output/races-preGeo-combined.json');
 
 var iterator = 0;
 var numberOfLocations = data.length;
 
 var writeData = function() {
-    fs.writeFile('geodata.json', JSON.stringify(data), function(err) {
+    fs.writeFile('data/output/geodata.json', JSON.stringify(data), function(err) {
         if ( err ) {
             console.log( err );
         } else {
             console.log("The file was saved!");
         }
-    }); 
+    });
 }
 
 var geocodeData = (function geocodeData() {
