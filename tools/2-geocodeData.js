@@ -7,7 +7,7 @@
 var fs = require('fs');
 var geocoder = require('omnigeo');
 
-var data = require('../data/output/races-preGeo-combined.json');
+var data = require('../data/output/races-preGeo.json');
 
 var iterator = 0;
 var numberOfLocations = data.length;
