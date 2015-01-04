@@ -68,7 +68,7 @@ function initMap() {
         }
     }).addTo(map);
 
-    // getLocation();
+    getLocation();
 }
 
 function updateRange( val, day ) {
@@ -95,6 +95,12 @@ function updateRange( val, day ) {
 function setTimeVals() {
     var val = $("#slider").val();
     var day = $('select').val();
+    updateRange( val, day );
+}
+
+function updateTimeText() {
+    var val = $("#slider").val();
+    var day = $('select').val();
     var lower = parseInt(val[0]);
     var upper = parseInt(val[1]);
     if ( months[lower] != months[upper] ) {
@@ -106,7 +112,6 @@ function setTimeVals() {
         $('.multimonth').addClass('is-hidden');
         $('.singlemonth').removeClass('is-hidden');
     }
-    updateRange( val, day );
 }
 
 jQuery(document).ready(function() {
@@ -124,6 +129,9 @@ jQuery(document).ready(function() {
             'min': 0,
             'max': 11
         }
+    })
+    .on('slide', function() {
+        updateTimeText()
     })
     .on('set', function() {
         setTimeVals();
