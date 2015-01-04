@@ -49,7 +49,10 @@ gulp.task('assetMover', function() {
 });
 
 gulp.task('viewMover', function() {
-    gulp.src('index.html', {base: './'})
+    gulp.src([
+        'index.html',
+        'index.php'
+    ], {base: './'})
         .pipe(gulp.dest('dist/'))
 });
 

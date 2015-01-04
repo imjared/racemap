@@ -4,11 +4,13 @@
   "version": "0.0.0",
   "main": "index.js",
   "dependencies": {
+    "cheerio": "^0.16.0",
+    "compression": "^1.3.0",
+    "express": "^4.10.6",
     "geojson": "~0.1.5",
-    "omnigeo": "0.0.1",
     "googleapis": "^0.7.0",
-    "xml2js": "^0.4.4",
-    "cheerio": "^0.16.0"
+    "omnigeo": "0.0.1",
+    "xml2js": "^0.4.4"
   },
   "devDependencies": {
     "browser-sync": "^1.8.3",
