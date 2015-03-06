@@ -38,7 +38,8 @@ gulp.task('usemin', function() {
     return gulp.src('./*.html')
         .pipe($.usemin({
             css: [minifyCss(), 'concat'],
-            js: [uglify(), rev()]
+            js: [uglify(), rev()],
+            js1: [uglify(), rev()]
         }))
         .pipe(gulp.dest('dist/'));
 });
