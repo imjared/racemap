@@ -80,3 +80,10 @@ body { margin:0; padding:0; }
 
     }
 }
+
+
+a.leaflet-bar-part.leaflet-bar-part-single {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

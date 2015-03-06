@@ -1,4 +1,7 @@
 var gulp        = require('gulp');
+var uglify      = require('gulp-uglify');
+var minifyCss   = require('gulp-minify-css');
+var rev         = require('gulp-rev');
 var sourcemaps  = require('gulp-sourcemaps');
 var $           = require('gulp-load-plugins')();
 var rimraf      = require('rimraf');
@@ -14,7 +17,7 @@ var handleErrors = function() {
     }).apply(this, args);
 
     this.emit('end');
-}
+};
 
 gulp.task('styles', function() {
     return gulp.src( 'build/scss/screen.scss' )
@@ -27,7 +30,17 @@ gulp.task('styles', function() {
         }))
         .pipe($.sourcemaps.write())
         .pipe($.autoprefixer('last 2 versions'))
-        .pipe(gulp.dest( 'dist/stylesheets' ))
+        .pipe($.csso())
+        .pipe(gulp.dest( 'dist/stylesheets' ));
+});
+
+gulp.task('usemin', function() {
+    return gulp.src('./*.html')
+        .pipe($.usemin({
+            css: [minifyCss(), 'concat'],
+            js: [uglify(), rev()]
+        }))
+        .pipe(gulp.dest('dist/'));
 });
 
 // clean output directory
@@ -37,23 +50,19 @@ gulp.task('clean', function (cb) {
 
 gulp.task('assetMover', function() {
 
-    gulp.src('js/**')
-        .pipe(gulp.dest('dist/js'));
-
     gulp.src('geodata-formatted.json')
         .pipe(gulp.dest('dist'));
 
-    gulp.src('bower_components/**')
-        .pipe(gulp.dest('dist/bower_components'));
+    gulp.src('build/img/**/*', {base: './build'})
+        .pipe(gulp.dest('dist'));
 
 });
 
 gulp.task('viewMover', function() {
     gulp.src([
-        'index.html',
         'index.php'
     ], {base: './'})
-        .pipe(gulp.dest('dist/'))
+        .pipe(gulp.dest('dist/'));
 });
 
 gulp.task('webserver', function() {
@@ -70,19 +79,13 @@ gulp.task('webserver', function() {
 
 gulp.task('watch', function() {
     gulp.watch([
-        'dist/js/**',
-        'dist/stylesheets/**',
-        'dist/bower_components',
+        'dist/stylesheets/*.css',
         'dist/index.html'
     ], reload);
-    gulp.watch([
-        'js/**',
-        'bower_components/**'
-    ], ['assetMover']);
-    gulp.watch('index.html', ['viewMover']);
+    gulp.watch('index.html', ['usemin']);
     gulp.watch('build/**/*.scss', ['styles']);
 });
 
 gulp.task('default', function( cb ) {
-    runSequence( 'clean', 'viewMover', 'assetMover', 'styles', ['watch', 'webserver'], cb );
+    runSequence( 'clean', 'viewMover', 'assetMover', 'styles', 'usemin', ['watch', 'webserver'], cb );
 });
